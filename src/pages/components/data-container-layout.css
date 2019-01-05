@@ -1,0 +1,8 @@
+.data-container{
+  width: 100vw;
+  height: 100%;
+  height: auto;
+  margin: 0;
+  padding: 5px 100px;
+  box-sizing: border-box;
+}
